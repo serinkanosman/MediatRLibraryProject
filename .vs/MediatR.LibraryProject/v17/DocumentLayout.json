@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Serinkan\\Desktop\\KesifYolu\\MediatR.LibraryProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89BADEF8-9BC2-4B6F-930F-5FE679748352}|eTicaret.Application\\eTicaret.Application.csproj|c:\\users\\serinkan\\desktop\\kesifyolu\\mediatr.libraryproject\\eticaret.application\\serviceregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BADEF8-9BC2-4B6F-930F-5FE679748352}|eTicaret.Application\\eTicaret.Application.csproj|solutionrelative:eticaret.application\\serviceregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B61D8E-0815-4479-B34B-253FC84FA5B7}|MediatR\\MediatR.csproj|c:\\users\\serinkan\\desktop\\kesifyolu\\mediatr.libraryproject\\mediatr\\irequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B61D8E-0815-4479-B34B-253FC84FA5B7}|MediatR\\MediatR.csproj|solutionrelative:mediatr\\irequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BADEF8-9BC2-4B6F-930F-5FE679748352}|eTicaret.Application\\eTicaret.Application.csproj|c:\\users\\serinkan\\desktop\\kesifyolu\\mediatr.libraryproject\\eticaret.application\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BADEF8-9BC2-4B6F-930F-5FE679748352}|eTicaret.Application\\eTicaret.Application.csproj|solutionrelative:eticaret.application\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B61D8E-0815-4479-B34B-253FC84FA5B7}|MediatR\\MediatR.csproj|c:\\users\\serinkan\\desktop\\kesifyolu\\mediatr.libraryproject\\mediatr\\mediatr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9B61D8E-0815-4479-B34B-253FC84FA5B7}|MediatR\\MediatR.csproj|solutionrelative:mediatr\\mediatr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9647F5-23A6-4929-8DA0-3CD7FA9A8C21}|MediatR.LibraryProject.API\\eTicaret.WebAPI.csproj|c:\\users\\serinkan\\desktop\\kesifyolu\\mediatr.libraryproject\\mediatr.libraryproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9647F5-23A6-4929-8DA0-3CD7FA9A8C21}|MediatR.LibraryProject.API\\eTicaret.WebAPI.csproj|solutionrelative:mediatr.libraryproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9647F5-23A6-4929-8DA0-3CD7FA9A8C21}|MediatR.LibraryProject.API\\eTicaret.WebAPI.csproj|c:\\users\\serinkan\\desktop\\kesifyolu\\mediatr.libraryproject\\mediatr.libraryproject.api\\mediatr.libraryproject.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8C9647F5-23A6-4929-8DA0-3CD7FA9A8C21}|MediatR.LibraryProject.API\\eTicaret.WebAPI.csproj|solutionrelative:mediatr.libraryproject.api\\mediatr.libraryproject.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BADEF8-9BC2-4B6F-930F-5FE679748352}|eTicaret.Application\\eTicaret.Application.csproj|c:\\users\\serinkan\\desktop\\kesifyolu\\mediatr.libraryproject\\eticaret.application\\productcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BADEF8-9BC2-4B6F-930F-5FE679748352}|eTicaret.Application\\eTicaret.Application.csproj|solutionrelative:eticaret.application\\productcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9647F5-23A6-4929-8DA0-3CD7FA9A8C21}|MediatR.LibraryProject.API\\eTicaret.WebAPI.csproj|c:\\users\\serinkan\\desktop\\kesifyolu\\mediatr.libraryproject\\mediatr.libraryproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C9647F5-23A6-4929-8DA0-3CD7FA9A8C21}|MediatR.LibraryProject.API\\eTicaret.WebAPI.csproj|solutionrelative:mediatr.libraryproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestClass.cs",
+              "DocumentMoniker": "C:\\Users\\Serinkan\\Desktop\\KesifYolu\\MediatR.LibraryProject\\eTicaret.Application\\TestClass.cs",
+              "RelativeDocumentMoniker": "eTicaret.Application\\TestClass.cs",
+              "ToolTip": "C:\\Users\\Serinkan\\Desktop\\KesifYolu\\MediatR.LibraryProject\\eTicaret.Application\\TestClass.cs",
+              "RelativeToolTip": "eTicaret.Application\\TestClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:14:47.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MediatR",
+              "DocumentMoniker": "C:\\Users\\Serinkan\\Desktop\\KesifYolu\\MediatR.LibraryProject\\MediatR\\MediatR.csproj",
+              "RelativeDocumentMoniker": "MediatR\\MediatR.csproj",
+              "ToolTip": "C:\\Users\\Serinkan\\Desktop\\KesifYolu\\MediatR.LibraryProject\\MediatR\\MediatR.csproj",
+              "RelativeToolTip": "MediatR\\MediatR.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T22:53:52.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MediatR.LibraryProject.API.http",
+              "DocumentMoniker": "C:\\Users\\Serinkan\\Desktop\\KesifYolu\\MediatR.LibraryProject\\MediatR.LibraryProject.API\\MediatR.LibraryProject.API.http",
+              "RelativeDocumentMoniker": "MediatR.LibraryProject.API\\MediatR.LibraryProject.API.http",
+              "ToolTip": "C:\\Users\\Serinkan\\Desktop\\KesifYolu\\MediatR.LibraryProject\\MediatR.LibraryProject.API\\MediatR.LibraryProject.API.http",
+              "RelativeToolTip": "MediatR.LibraryProject.API\\MediatR.LibraryProject.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-21T22:14:54.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Serinkan\\Desktop\\KesifYolu\\MediatR.LibraryProject\\MediatR.LibraryProject.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MediatR.LibraryProject.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Serinkan\\Desktop\\KesifYolu\\MediatR.LibraryProject\\MediatR.LibraryProject.API\\appsettings.json",
+              "RelativeToolTip": "MediatR.LibraryProject.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T22:14:53.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Serinkan\\Desktop\\KesifYolu\\MediatR.LibraryProject\\MediatR.LibraryProject.API\\Program.cs",
+              "RelativeDocumentMoniker": "MediatR.LibraryProject.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Serinkan\\Desktop\\KesifYolu\\MediatR.LibraryProject\\MediatR.LibraryProject.API\\Program.cs",
+              "RelativeToolTip": "MediatR.LibraryProject.API\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:10:06.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Serinkan\\Desktop\\KesifYolu\\MediatR.LibraryProject\\MediatR\\IRequest.cs",
+              "RelativeDocumentMoniker": "MediatR\\IRequest.cs",
+              "ToolTip": "C:\\Users\\Serinkan\\Desktop\\KesifYolu\\MediatR.LibraryProject\\MediatR\\IRequest.cs",
+              "RelativeToolTip": "MediatR\\IRequest.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:01:27.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRegistrar.cs",
+              "DocumentMoniker": "C:\\Users\\Serinkan\\Desktop\\KesifYolu\\MediatR.LibraryProject\\eTicaret.Application\\ServiceRegistrar.cs",
+              "RelativeDocumentMoniker": "eTicaret.Application\\ServiceRegistrar.cs",
+              "ToolTip": "C:\\Users\\Serinkan\\Desktop\\KesifYolu\\MediatR.LibraryProject\\eTicaret.Application\\ServiceRegistrar.cs",
+              "RelativeToolTip": "eTicaret.Application\\ServiceRegistrar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:00:47.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductCreateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Serinkan\\Desktop\\KesifYolu\\MediatR.LibraryProject\\eTicaret.Application\\ProductCreateCommand.cs",
+              "RelativeDocumentMoniker": "eTicaret.Application\\ProductCreateCommand.cs",
+              "ToolTip": "C:\\Users\\Serinkan\\Desktop\\KesifYolu\\MediatR.LibraryProject\\eTicaret.Application\\ProductCreateCommand.cs",
+              "RelativeToolTip": "eTicaret.Application\\ProductCreateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T22:00:26.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

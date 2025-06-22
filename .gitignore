@@ -1,0 +1,50 @@
+## Build artifacts
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio
+.vscode/
+*.code-workspace
+
+## Rider
+.idea/
+
+## ASP.NET Core
+appsettings.*.json
+appsettings.Development.json
+secrets.json
+
+## Logs
+*.log
+logs/
+
+## NuGet
+*.nupkg
+packages/
+.nuget/
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## dotCover
+*.dcvr
+
+## Resharper
+_ReSharper*/
+*.DotSettings.user
+
+## Publish
+publish/
+
+## Test Results
+TestResults/
+
+## EF Core Migrations snapshot (if you want to ignore model snapshots)

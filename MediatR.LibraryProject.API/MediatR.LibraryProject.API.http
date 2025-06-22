@@ -1,0 +1,11 @@
+@MediatR.LibraryProject.API_HostAddress = http://localhost:5008
+###
+Get http://localhost:5008
+###
+POST http://localhost:5008/products
+content-type: application/json
+{
+  "name": "Product 1",
+  "description": "Description of Product 1",
+  "price": 19.99
+}
