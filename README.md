@@ -1,42 +1,55 @@
-MediatR.LibraryProject
-Bu proje, MediatR tasarım desenini temel alan, modüler ve genişletilebilir bir .NET uygulama altyapısı sunar.
-Proje, komut/sorgu (CQRS) desenini ve bağımlılık enjeksiyonunu kullanarak temiz ve sürdürülebilir bir mimari hedefler.
+# MediatR.LibraryProject
 
-Proje Yapısı
-MediatR/
-MediatR arayüzleri ve temel altyapı kodlarını içerir.
-IRequest, IRequestHandler, ISender gibi arayüzler ve bunların temel implementasyonları burada bulunur.
-MediatRExtensions ile servis kayıtları kolaylaştırılır.
-eTicaret.Application/
-Uygulama katmanıdır.
-Komutlar (ör. ProductCreateCommand), handler'lar ve servis kayıtları burada yer alır.
-ServiceRegistrar ile uygulama servisleri eklenir.
-Örnek/test amaçlı bir Test sınıfı da mevcuttur.
-MediatR.LibraryProject.API/
-API katmanıdır.
-Program.cs dosyasında servisler eklenir ve endpointler tanımlanır.
-Swagger/OpenAPI desteği ile API dokümantasyonu sağlanır.
-/products endpointi ile ürün oluşturma işlemi örneklenmiştir.
+Bu proje, **MediatR tasarım desenini** temel alan, modüler ve genişletilebilir bir .NET uygulama altyapısı sunar.  
+CQRS (Command Query Responsibility Segregation) ve bağımlılık enjeksiyonu ile temiz, sürdürülebilir ve test edilebilir bir mimari hedeflenmiştir.
 
+---
 
-Temel Özellikler
-MediatR altyapısı:
-Komutlar ve handler'lar ile gevşek bağlılık (loose coupling) sağlanır.
-CQRS desteği:
-Komut ve sorgular ayrı handler'lar ile yönetilir.
-Bağımlılık enjeksiyonu:
-Servisler kolayca eklenip yönetilebilir.
-Swagger/OpenAPI:
-API endpointleri kolayca test edilebilir.
+## 🧱 Proje Yapısı
 
-Örnek Kullanım 
+MediatR.LibraryProject/
+│
+├── MediatR/ # MediatR arayüzleri ve temel altyapı
+│ ├── IRequest, ISender, IRequestHandler
+│ └── MediatRExtensions # DI için uzantılar
+│
+├── eTicaret.Application/ # Uygulama katmanı (CQRS)
+│ ├── Commands/
+│ │ └── ProductCreateCommand.cs
+│ ├── Handlers/
+│ │ └── ProductCreateCommandHandler.cs
+│ ├── ServiceRegistrar.cs
+│ └── Test.cs # Örnek kullanım sınıfı
+│
+└── MediatR.LibraryProject.API/ # API katmanı
+├── Program.cs
+└── Swagger/OpenAPI dokümantasyonu
+
+---
+
+## 🚀 Temel Özellikler
+
+- ✅ **MediatR Altyapısı:** Komutlar ve handler’lar ile gevşek bağlılık (loose coupling).
+- ✅ **CQRS Desteği:** Komut ve sorgular ayrı handler’larla yönetilir.
+- ✅ **Bağımlılık Enjeksiyonu (DI):** Servisler kolayca kayıt edilir ve yönetilir.
+- ✅ **Swagger/OpenAPI:** API endpoint'leri kolayca test edilebilir.
+
+---
+
+## 📦 Örnek Kullanım
+
+### 📬 POST `/products`
+
+**İstek:**
+```http
 POST /products
 Content-Type: application/json
+
 {
   "name": "Ürün Adı",
   "price": 100.0
 }
-Yanıt
 {
-  "Message": "Create product is successful"
+  "message": "Create product is successful"
 }
+
